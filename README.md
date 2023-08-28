@@ -9,4 +9,8 @@ apt install git
 apt install net-tools
 ```
 
+### After installing the above packages, you can now run the following command.
+bash ```
+ifconfig
+```
 
