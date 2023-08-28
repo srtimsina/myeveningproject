@@ -6,4 +6,7 @@
 bash ```
 apt update
 apt install git
+apt install net-tools
 ```
+
+
