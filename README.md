@@ -4,9 +4,10 @@
 
 ## Install packages
 bash ```
-apt update
 apt install git
 apt install net-tools
 ```
-
-
+### Now you can play with the git command
+bash ```
+git --version
+```
