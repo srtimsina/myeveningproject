@@ -7,7 +7,8 @@ bash ```
 apt install git
 apt install net-tools
 ```
-### Now you can play with the git command
+
+### After installing the above packages, you can now run the following command.
 bash ```
-git --version
+ifconfig
 ```
